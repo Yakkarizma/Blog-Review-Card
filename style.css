@@ -30,6 +30,7 @@ p{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 20px;
 }
 
 .icerik{
@@ -85,4 +86,18 @@ p{
     width: 40px;
     height: 40px;
     margin-right: 10px;
+}
+
+@media(max-width:375px){
+    .container{
+        padding:20px ;
+    }
+    
+    h1{
+        font-size: 25px;
+    }
+
+    p{
+        font-size: 13px;
+    }
 }
