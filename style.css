@@ -8,6 +8,7 @@
 
 body{
     font-family: "Figtree", sans-serif;
+    font-weight: 500;
 }
 
 p{
@@ -32,17 +33,56 @@ p{
 }
 
 .icerik{
-    width: 450px;
+    width: 420px;
     background-color: var(--beyaz);
     border-radius: 20px;
-    padding: 20px;
+    padding: 25px;
     border: solid 2px var(--gri-950);
     box-shadow: 10px 10px 0px 0px var(--gri-950);
 }
 
-img{
+.kod-resim img{
     border-radius: 20px;
     height: 100%;
     width: 100%;
+    margin-bottom: 15px;
+}
+
+.learning{
+    padding: 10px;
+    background-color: var(--sarı);
+    border-radius: 5px;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.published{
     margin-bottom: 20px;
+}
+
+.baslik{
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.baslik:hover{
+    color: var(--sarı);
+    cursor: pointer;
+}
+
+p{
+    color: var(--gri-500);
+    margin-bottom: 25px;
+}
+
+.kisi-bilgi{
+    display: flex;
+    align-items: center;
+}
+
+.kisi-bilgi img{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
 }
