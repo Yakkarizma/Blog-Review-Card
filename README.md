@@ -22,8 +22,8 @@ This is a solution to the [Blog Review Card Component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Yakkarizma/Blog-Review-Card)
-- Live Site URL: [Add live site URL here](https://yakkarizma.github.io/Blog-Review-Card/)
+- Solution URL: [https://github.com/Yakkarizma/Blog-Review-Card]
+- Live Site URL: [https://yakkarizma.github.io/Blog-Review-Card/]
 
 ### Built with
 
