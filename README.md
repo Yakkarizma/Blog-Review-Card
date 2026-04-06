@@ -25,6 +25,8 @@ This is a solution to the [Blog Review Card Component challenge on Frontend Ment
 - Solution URL: [https://github.com/Yakkarizma/Blog-Review-Card]
 - Live Site URL: [https://yakkarizma.github.io/Blog-Review-Card/]
 
+## My process
+
 ### Built with
 
 - Semantic HTML5 markup
